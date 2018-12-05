@@ -1,3 +1,4 @@
+# coding=utf-8
 """
 集合列表
 list tuple
